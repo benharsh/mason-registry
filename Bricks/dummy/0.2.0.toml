@@ -1,0 +1,11 @@
+
+[brick]
+chplVersion = "2.1.0"
+license = "None"
+name = "dummy"
+source = "git@github.com:benharsh/mason-dummy.git"
+type = "library"
+version = "0.2.0"
+
+[dependencies]
+
